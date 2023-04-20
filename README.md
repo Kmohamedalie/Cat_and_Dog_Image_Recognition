@@ -5,7 +5,7 @@ libraries:
 Keras:  https://keras.io/about/ <br>
 Tensorflow: https://www.tensorflow.org/api_docs/python/tf/keras
 
-<h3> Kaggle CHALLENGE:</h3>
+<h3>For more try the following challenge on Kaggle:</h3>
 Try your own network: https://www.youtube.com/watch?v=nq7_ZYJPWf0 <br>
 Kaggle: https://www.kaggle.com/competitions/dogs-vs-cats/code  <br>
 Google Developers Demo: https://colab.research.google.com/github/lmoroney/mlday-tokyo/blob/master/Lab6-Cats-v-Dogs.ipynb#scrollTo=dn-6c02VmqiN
