@@ -13,3 +13,13 @@ Google Developers Demo: https://colab.research.google.com/github/lmoroney/mlday-
 ![image](https://user-images.githubusercontent.com/63104472/233491682-91547193-d90c-4ea0-8772-8b5ed5746c78.png)
 ![image](https://user-images.githubusercontent.com/63104472/233491894-3ef1027d-5b64-4ea7-89b4-4a493e2fffca.png)
 
+
+## My Output: <br>
+Data: Cats and Dogs <br>
+Validation accurary: 79.65% <br>
+Training time: 28.6 ms <br>
+Resources: Google Colab Standard GPU <br>
+Model Architecture: 2Cov, 2MaxPool, Flatten, Dense, Final output 
+<br><hr><br>
+### Final imag prediction:
+![image](https://user-images.githubusercontent.com/63104472/233628964-29719a68-9984-4ea4-8456-280703433e64.png)
