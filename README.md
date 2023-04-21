@@ -11,7 +11,7 @@ Kaggle: https://www.kaggle.com/competitions/dogs-vs-cats/code  <br>
 Google Developers Demo: https://colab.research.google.com/github/lmoroney/mlday-tokyo/blob/master/Lab6-Cats-v-Dogs.ipynb#scrollTo=dn-6c02VmqiN
 
 ![image](https://user-images.githubusercontent.com/63104472/233629479-358fe179-2e56-4256-bd36-66481553ae4d.png)
-![image](https://user-images.githubusercontent.com/63104472/233629733-721f9fa4-8a49-4bd9-bffc-18b5dffe40ed.png)
+![image](https://user-images.githubusercontent.com/63104472/233629833-4b86a81b-00a0-42dc-8e36-f4976c5206e4.png)
 
 
 
