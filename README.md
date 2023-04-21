@@ -1,5 +1,5 @@
 # Cat_and_Dog_Image_Recognition
-Applying Deep learning(CNN) to recognise images of cats and dogs.
+Applying Deep learning(CNN) to recognise images of cats and dogs. Inspired by two of my classmates pet lovers Sophia and Ekin.
 
 libraries:
 Keras:  https://keras.io/about/ <br>
