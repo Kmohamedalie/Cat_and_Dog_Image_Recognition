@@ -23,7 +23,7 @@ Resources: Google Colab Standard GPU <br>
 Model Architecture: 2Cov, 2MaxPool, Flatten, Dense, Final output 
 <br><hr><br>
 ## Output of the regularized notebook: <br>
-Please Check out the <a href="https://github.com/Kmohamedalie/Cat_and_Dog_Image_Recognition/blob/master/REGULARIZATION_Cat_and_Dog_Image_Recognition.ipynb">REGULARIZATION - Cat_and_Dog_Image_Recognition</a> notebook for more.<br>
+Please Check out the <a href="https://github.com/Kmohamedalie/Cat_and_Dog_Image_Recognition/blob/master/REGULARIZATION_Cat_and_Dog_Image_Recognition.ipynb">REGULARIZED - Augmented  Cat_and_Dog_Image_Recognition</a> notebook for more.<br>
 Data: Cats and Dogs <br>
 Validation accurary: 72.75% <br>
 Training time: 45min 44s (%%time) <br>
