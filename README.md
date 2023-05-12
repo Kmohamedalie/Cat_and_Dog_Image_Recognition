@@ -27,7 +27,7 @@ Please Check out the <a href="https://github.com/Kmohamedalie/Cat_and_Dog_Image_
 Data: Cats and Dogs <br>
 Validation accurary: 72.75% <br>
 Training time: 45min 44s with magic function(%%time). <br>
-Resources: Google Colab Standard GPU <br>
+Resources: Google Colab Standard TPU<br>
 Model Architecture: Cov, MaxPool, Droupout, Flatten, Dense, Final output 
 <br><hr><br>
 ### Final imag prediction:
