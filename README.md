@@ -30,5 +30,5 @@ Training time: 45min 44s with magic function(%%time). <br>
 Resources: Google Colab Standard TPU<br>
 Model Architecture: Cov, MaxPool, Droupout, Flatten, Dense, Final output 
 <br><hr><br>
-### Final imag prediction:
+### Final image prediction:
 ![image](https://user-images.githubusercontent.com/63104472/233628964-29719a68-9984-4ea4-8456-280703433e64.png)
