@@ -26,7 +26,7 @@ Model Architecture: 2Cov, 2MaxPool, Flatten, Dense, Final output
 Please Check out the <a href="https://github.com/Kmohamedalie/Cat_and_Dog_Image_Recognition/blob/master/REGULARIZATION_Cat_and_Dog_Image_Recognition.ipynb">REGULARIZED - Augmented  Cat_and_Dog_Image_Recognition</a> notebook for more.<br>
 Data: Cats and Dogs <br>
 Validation accurary: 72.75% <br>
-Training time: 45min 44s (%%time) <br>
+Training time: 45min 44s with magic function(%%time). <br>
 Resources: Google Colab Standard GPU <br>
 Model Architecture: Cov, MaxPool, Droupout, Flatten, Dense, Final output 
 <br><hr><br>
