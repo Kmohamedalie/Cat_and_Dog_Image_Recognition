@@ -2,13 +2,13 @@
 Applying Deep learning(CNN) to recognise images of cats and dogs. Inspired by two of my classmates **pet lovers** Sophia and Ekin.
 
 libraries:
-Keras:  https://keras.io/about/ <br>
-Tensorflow: https://www.tensorflow.org/api_docs/python/tf/keras
+Keras: <a href=" https://keras.io/about/">Keras</a> <br>
+Tensorflow: <a href="https://www.tensorflow.org/api_docs/python/tf/keras">Tensorflow</a> <br>
 
 <h3>For more try the following challenge on Kaggle:</h3>
-Create your own network: https://www.youtube.com/watch?v=nq7_ZYJPWf0 <br>
-Kaggle: https://www.kaggle.com/competitions/dogs-vs-cats/code  <br>
-Google Developers Demo: https://colab.research.google.com/github/lmoroney/mlday-tokyo/blob/master/Lab6-Cats-v-Dogs.ipynb#scrollTo=dn-6c02VmqiN
+Create your own network: <a href="https://www.youtube.com/watch?v=nq7_ZYJPWf0 ">Youtube</a><br>
+Kaggle: <a href="https://www.kaggle.com/competitions/dogs-vs-cats/code "> Competition</a> <br>
+Google Developers Demo: <a href=" https://colab.research.google.com/github/lmoroney/mlday-tokyo/blob/master/Lab6-Cats-v-Dogs.ipynb#scrollTo=dn-6c02VmqiN"> Demo</a>
 
 ![image](https://user-images.githubusercontent.com/63104472/233629479-358fe179-2e56-4256-bd36-66481553ae4d.png)
 ![image](https://user-images.githubusercontent.com/63104472/233629833-4b86a81b-00a0-42dc-8e36-f4976c5206e4.png)
