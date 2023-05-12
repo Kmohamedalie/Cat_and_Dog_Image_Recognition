@@ -22,5 +22,13 @@ Training time: 28.6 ms <br>
 Resources: Google Colab Standard GPU <br>
 Model Architecture: 2Cov, 2MaxPool, Flatten, Dense, Final output 
 <br><hr><br>
+## Output of the regularized notebook: <br>
+Please Check out the REGULARIZATION - Cat_and_Dog_Image_Recognition.ipynb notebook for more.<br>
+Data: Cats and Dogs <br>
+Validation accurary: 72.75% <br>
+Training time: 45min 44s (%%time) <br>
+Resources: Google Colab Standard GPU <br>
+Model Architecture: Cov, MaxPool, Droupout, Flatten, Dense, Final output 
+<br><hr><br>
 ### Final imag prediction:
 ![image](https://user-images.githubusercontent.com/63104472/233628964-29719a68-9984-4ea4-8456-280703433e64.png)
