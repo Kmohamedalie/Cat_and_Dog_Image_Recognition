@@ -2,7 +2,7 @@
 Applying Deep learning(CNN) to recognise images of cats and dogs. Inspired by two of my classmates **pet lovers** Sophia and Ekin.
 
 libraries:
-Keras: <a href=" https://keras.io/about/">Keras</a> <br>
+Keras: <a href="https://keras.io/about/">Keras</a> <br>
 Tensorflow: <a href="https://www.tensorflow.org/api_docs/python/tf/keras">Tensorflow</a> <br>
 
 <h3>For more try the following challenge on Kaggle:</h3>
